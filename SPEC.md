@@ -6,6 +6,7 @@
 - 紹介リンク:https://app.tria.so/?accessCode=S9KACRZ5XI
 - 最終更新:2026-08-22
 - 運用方針:人間は何もしない。AIがGA4 / Search Console / Googleトレンドの指標を見て改善を回す(§8の運用ループ参照)
+- 初期セットアップ状況(2026-08-22時点):GitHub Pages公開済み/GA4計測(G-5XK9M995V1)設定済み/Search Console所有権確認・サイトマップ送信済み。週次で自動リマインド設定済み(Claude Code Remote Routine)。
 
 ---
 
