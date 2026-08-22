@@ -2,11 +2,10 @@
  * Tria紹介サイト 共通JS
  * - GA4読み込み(測定IDを設定するまで何も読み込まない)
  * - affiliate_click / code_copy イベント計測
- * 設定手順は tria/SPEC.md §7 を参照。
+ * 設定手順は SPEC.md §7 を参照。
  */
 
-// ★ここをGA4の測定ID(例 "G-ABC1234XYZ")に差し替えるとGA4が有効になる
-var GA4_ID = "G-XXXXXXXXXX";
+var GA4_ID = "G-5XK9M995V1";
 
 (function () {
   "use strict";

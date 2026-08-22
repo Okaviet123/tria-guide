@@ -175,7 +175,7 @@ Triaの紹介報酬は「被紹介者が獲得するTria Pointsの10%」+登録�
 
 ### 7.1 GA4
 
-- 測定ID:`assets/site.js` 冒頭の `GA4_ID` に設定する(**現在はプレースホルダ `G-XXXXXXXXXX`。実IDに差し替えるまでGA4は読み込まれない**)
+- 測定ID:`assets/site.js` 冒頭の `GA4_ID` に設定済み(`G-5XK9M995V1`。2026-08-22設定)
 - 導入手順:GA4でプロパティ作成 → ウェブストリームでURL `https://okaviet123.github.io` を登録(会社サイト等と同一ドメインのため、既存プロパティがあればそれを流用可)→ 測定IDを `site.js` に貼る → push
 - カスタムイベント:
   - `affiliate_click`:紹介リンククリック。パラメータ `link_location`(hero/sticky等)、`page_path`
